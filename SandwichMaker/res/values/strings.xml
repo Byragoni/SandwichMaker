@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SandwichMaker</string>
+    <string name="phi">Personal Happiness Index</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_popup">Pop Up</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="hint">How\'s it going?</string>
+    
+    <string name="love">love</string>
+    <string name="like">like</string>
+    <string name="dislike">dislike</string>
+    
+    <string name="notify_message">We would love to hear from you!!</string>
+    <string name="empty_message">We understand you better when you say something !! :)</string>
+
+</resources>
